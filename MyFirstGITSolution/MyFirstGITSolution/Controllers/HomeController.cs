@@ -10,8 +10,6 @@ namespace MyFirstGITSolution.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Hi from Jane";
-
             return View();
         }
 
