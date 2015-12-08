@@ -13,6 +13,7 @@ namespace MyFirstGITSolution.Controllers
         public ActionResult Index()
         {
             ViewBag.Message = "Hello";
+            ViewBag.Message2 = "Hello2";
             return View();
         }
 	}
