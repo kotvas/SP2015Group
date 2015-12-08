@@ -12,6 +12,7 @@ namespace MyFirstGITSolution.Controllers
         // GET: /My1/
         public ActionResult Index()
         {
+            ViewBag.Message = "Hello";
             return View();
         }
 	}
