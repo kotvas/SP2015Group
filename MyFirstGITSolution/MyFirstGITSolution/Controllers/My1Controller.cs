@@ -14,6 +14,7 @@ namespace MyFirstGITSolution.Controllers
         {
             ViewBag.Message = "Hello";
             ViewBag.Message2 = "Hello2";
+            ViewBag.Message2 = "Hello3";
             return View();
         }
 	}
