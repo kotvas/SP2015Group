@@ -10,6 +10,7 @@ namespace MyThirdGitSolution
     {
         static void Main(string[] args)
         {
+            //comment
         }
     }
 }
